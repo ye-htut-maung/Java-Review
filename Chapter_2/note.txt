@@ -1,0 +1,18 @@
+Data Types
+
+char
+short
+int
+long
+boolean
+float
+double
+String
+
+%/ - mod Equals
+
+Access Levels
+1. Public
+2. Private
+3. Default
+4. Protected (need to understand)
